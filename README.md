@@ -17,8 +17,7 @@ Once installed you'll see the Tampermonkey icon in your browser toolbar.
 Open this link in your browser:
 
 ```
-[GIST URL HERE](https://gist.github.com/Matthieu-ui/aa97ba8c7950db2b47a1c82b49f20500)
-```
+https://gist.github.com/Matthieu-ui/aa97ba8c7950db2b47a1c82b49f20500/raw/d50e0d3a70cce145086f584212940a71dea07500/master_dash.user.js
 
 Tampermonkey will show an install prompt. Click **"Install"**.
 
