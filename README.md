@@ -17,7 +17,7 @@ Once installed you'll see the Tampermonkey icon in your browser toolbar.
 Open this link in your browser:
 
 ```
-[PASTE RAW GIST URL HERE]
+[[PASTE RAW GIST URL HERE]](https://gist.github.com/Matthieu-ui/aa97ba8c7950db2b47a1c82b49f20500)
 ```
 
 Tampermonkey will show an install prompt. Click **"Install"**.
