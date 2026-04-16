@@ -16,10 +16,6 @@ Once installed you'll see the Tampermonkey icon in your browser toolbar.
 
 Open this link in your browser:
 
-## Step 2 — Install the dashboard
-
-Open this link in your browser:
-
 ```
 https://gist.githubusercontent.com/Matthieu-ui/aa97ba8c7950db2b47a1c82b49f20500/raw/master_dash.user.js
 ```
